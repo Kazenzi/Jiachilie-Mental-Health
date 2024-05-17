@@ -1,0 +1,42 @@
+/* Activity.css */
+.activity-container {
+    margin-top: 20px;
+  }
+  .activity-container h2{
+    font-size: 48px; /* Adjust the size as needed */
+    font-weight: bold;
+    color: #e4a
+  }
+  .activity-list {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+    gap: 20px;
+  }
+  
+  .activity-item {
+    border: 1px solid #ccc;
+    overflow: hidden;
+  }
+  
+  .activity-image {
+    width: 100%;
+    height: 200px;
+    object-fit: cover;
+  }
+  
+  .activity-details {
+    padding: 10px;
+  }
+  
+  .activity-date {
+    font-weight: bold;
+  }
+  
+  .activity-name {
+    margin-top: 5px;
+  }
+  
+  .activity-location {
+    font-style: italic;
+  }
+  
