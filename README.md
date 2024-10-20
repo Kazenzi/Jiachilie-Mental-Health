@@ -1,5 +1,8 @@
 Jiachilie
 Jiachilie is a mental health platform designed to support individuals experiencing difficult life transitions, such as inmates reentering society. The platform provides accessible mental health tools through both a web application and a USSD service, ensuring that users can engage regardless of internet access. Jiachilie features a chatbot powered by Gemini AI, which offers personalized guidance and stores user prompts to help event organizers create meaningful and supportive mental health programs.
+This is the frontend code 
+Backend code find it here https://github.com/Kazenzi/Jiachilie/tree/master/Frontend
+
 
 Table of Contents
 About the Project
